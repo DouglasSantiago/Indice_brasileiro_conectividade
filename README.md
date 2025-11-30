@@ -103,12 +103,6 @@ As métricas são processadas em DAX e modeladas de forma relacional.
 
 ---
 
-## 📎 Screenshot do Dashboard
-
-*(Adicione aqui uma imagem do painel, se desejar)*
-
----
-
 ## 📄 Licença
 
 Este projeto utiliza dados públicos e está sob licença livre. Consulte a política de reutilização da Base dos Dados e da Anatel para fins específicos.
